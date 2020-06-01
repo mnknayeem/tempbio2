@@ -1,7 +1,4 @@
-# Biometrics Application in Airports Demo
 
-Derek Mingyu MA  
-[derek.ma](http://derek.ma)  
 
 A Java EE Web App that shows the usage of face recognition and palmprint identification technologies in airports.
 
